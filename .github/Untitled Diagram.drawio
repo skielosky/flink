@@ -1,6 +1,6 @@
-<mxfile modified="2021-04-15T16:56:14.821Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="iAvQ71asiRzZ0J8q_0FF" version="14.5.8" type="github">
+<mxfile modified="2021-04-15T17:58:42.904Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="9V1NtEwH3GZVKqgjAD4K" version="14.5.8" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="1102" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="760" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i7WmX-7RhP07Q_WVPCmK-1011" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
-          <mxGeometry x="600" y="160" width="200" height="60" as="geometry" />
+          <mxGeometry x="602" y="160" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i7WmX-7RhP07Q_WVPCmK-1012" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Recepción y Verificación&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;de archivos SFTP de GTP&lt;/span&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=bigquery;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="i7WmX-7RhP07Q_WVPCmK-1011">
           <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
@@ -65,15 +65,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i7WmX-7RhP07Q_WVPCmK-1013" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="600" y="270" width="200" height="100" as="geometry" />
+          <mxGeometry x="602" y="270" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="i7WmX-7RhP07Q_WVPCmK-1014" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;Algoritmo de &lt;br style=&quot;font-size: 14px;&quot;&gt;Procesado GTP&lt;/font&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_composer;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=14;" vertex="1" parent="i7WmX-7RhP07Q_WVPCmK-1013">
+        <mxCell id="i7WmX-7RhP07Q_WVPCmK-1014" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;Algoritmo de &lt;br style=&quot;font-size: 12px;&quot;&gt;Procesado GTP&lt;/font&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_composer;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="i7WmX-7RhP07Q_WVPCmK-1013">
           <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
             <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="i7WmX-7RhP07Q_WVPCmK-1023" value="Envío de archivos de salida" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="415" y="294.78" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i7WmX-7RhP07Q_WVPCmK-1024" value="" style="whiteSpace=wrap;html=1;strokeColor=#000000;gradientColor=none;fontSize=14;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="424" y="331" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i7WmX-7RhP07Q_WVPCmK-1026" value="Estadisicas-YYYYMMDD.csv&lt;br style=&quot;font-size: 8px;&quot;&gt;ExtractoProgVsEjec-YYYYMMDD_algo1.csv&lt;br style=&quot;font-size: 8px;&quot;&gt;ExtractoProgVsEjec-YYYYMMDD_algo2.csv&lt;br style=&quot;font-size: 8px;&quot;&gt;ExtractoProgVsEjec-YYYYMMDD_algo3.csv&lt;br style=&quot;font-size: 8px;&quot;&gt;Indicadores_Ruta-YYYYMMDD.csv&lt;br style=&quot;font-size: 8px;&quot;&gt;Indicadores_Viaje-YYYYMMDD.csv&lt;br style=&quot;font-size: 8px;&quot;&gt;StopsCorregido-YYYYMMDD-A2.csv" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="430" y="326" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
